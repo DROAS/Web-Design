@@ -5,3 +5,24 @@
 	<edad>33 anios</edad>
 	<direccion_electronica>david.rodask@gmail.com</direccion_electronica>
 </persona>
+<factura>
+	<cliente>
+		<nombre></nombre>
+		<telefono></telefono>
+	</cliente>
+	<articulos>
+		<Pollo ID="90001">
+			<descripcion>Aves</descripcion>
+			<precio_unitario>Q20.00 LB</precio_unitario>
+			<precio_final>Q40.00</precio_final>
+			<cantidad>2 LB</cantidad>
+		</Pollo>
+		<Carne ID="90002">
+			<descripcion>Res</descripcion>
+			<precio_unitario>Q40.00 LB</precio_unitario>
+			<precio_final>Q40.00</precio_final>
+			<cantidad>1 LB</cantidad>
+		</Carne>
+	</articulos>
+	<precio_total ID="456" Fecha="7/20/2018">Q80.00</precio_total>
+</factura>
