@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+	<nombre>David</nombre>
+	<apellido>Rodas</apellido>
+	<edad>33</edad>
+	<correo-electronico posicion="Manager">davidr@dnzmanagementgroup.com</correo-electronico>
+</persona>
