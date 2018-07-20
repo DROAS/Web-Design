@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <persona>
-	<nombre>David</nombre>
-	<apellido>Rodas</apellido>
-	<edad>33</edad>
-	<correo-electronico posicion="Manager">davidr@dnzmanagementgroup.com</correo-electronico>
+	<nombre>David Uziel</nombre>
+	<apellidos>Rodas Krumme</apellidos>
+	<edad>33 anios</edad>
+	<direccion_electronica>david.rodask@gmail.com</direccion_electronica>
 </persona>
